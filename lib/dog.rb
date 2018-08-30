@@ -1,3 +1,9 @@
+# NOTES 
+
+
+# Think of instance variables as the containers for instance-specific information.
+
+
 class Dog
   
   def name=(dog_name)
